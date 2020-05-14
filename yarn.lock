@@ -1639,11 +1639,6 @@ bonjour@^3.5.0:
     multicast-dns "^6.0.1"
     multicast-dns-service-types "^1.1.0"
 
-bootstrap-slider@^10.6.1:
-  version "10.6.2"
-  resolved "https://registry.yarnpkg.com/bootstrap-slider/-/bootstrap-slider-10.6.2.tgz#7341f468c012bdaa6a1d8625d989fdeb8ed7dd38"
-  integrity sha512-8JTPZB9QVOdrGzYF3YgC3YW6ssfPeBvBwZnXffiZ7YH/zz1D0EKlZvmQsm/w3N0XjVNYQEoQ0ax+jHrErV4K1Q==
-
 brace-expansion@^1.1.7:
   version "1.1.11"
   resolved "https://registry.yarnpkg.com/brace-expansion/-/brace-expansion-1.1.11.tgz#3c7fcbf529d87226f3d2f52b966ff5271eb441dd"
@@ -4291,9 +4286,9 @@ isstream@~0.1.2:
   integrity sha1-R+Y/evVa+m+S4VAOaQ64uFKcCZo=
 
 jquery@^3.4.1:
-  version "3.4.1"
-  resolved "https://registry.yarnpkg.com/jquery/-/jquery-3.4.1.tgz#714f1f8d9dde4bdfa55764ba37ef214630d80ef2"
-  integrity sha512-36+AdBzCL+y6qjw5Tx7HgzeGCzC81MDDgaUP8ld2zhx58HdqXGoBd+tHdrBMiyjGQs0Hxs/MLZTu/eHNJJuWPw==
+  version "3.5.0"
+  resolved "https://registry.yarnpkg.com/jquery/-/jquery-3.5.0.tgz#9980b97d9e4194611c36530e7dc46a58d7340fc9"
+  integrity sha512-Xb7SVYMvygPxbFMpTFQiHh1J7HClEaThguL15N/Gg37Lri/qKyhRGZYzHRyLH8Stq3Aow0LsHO2O2ci86fCrNQ==
 
 js-base64@^2.1.8:
   version "2.5.2"
@@ -5739,13 +5734,6 @@ react-addons-test-utils@^0.14.2:
   version "0.14.8"
   resolved "https://registry.yarnpkg.com/react-addons-test-utils/-/react-addons-test-utils-0.14.8.tgz#dcddc039e71fc3c81d80338e53a3714f14d41e1f"
   integrity sha1-3N3AOecfw8gdgDOOU6NxTxTUHh8=
-
-react-bootstrap-slider@^2.2.2:
-  version "2.2.3"
-  resolved "https://registry.yarnpkg.com/react-bootstrap-slider/-/react-bootstrap-slider-2.2.3.tgz#03538c4df09cfaf41f62d1a9ae6e38504beed9af"
-  integrity sha512-HsBhP9ZPktLD7ZtbmsAkx/oDzK5HLxSTQ3aSaX45RxdVh6P9kJ4nEwtIhBbcnLdq/Og3vOkQsGQHIOKsDUWq/w==
-  dependencies:
-    bootstrap-slider "^10.6.1"
 
 react-datepicker@^2.9.6:
   version "2.14.0"
